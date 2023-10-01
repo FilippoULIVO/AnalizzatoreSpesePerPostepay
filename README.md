@@ -17,3 +17,9 @@ python 3
 Pandas
 ~~~
 spin up the script in jupyter notebook and justrun the files step by step and export the .xsl to be read in excel
+
+
+## TO Make changes:
+
+read the code and maybe help yourself with pandas cheatsheet https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf 
+try to keep variables names clear and maybe prefer verbose over syntethic. you will open this sheet max 1 a month, clear and clean is most important
